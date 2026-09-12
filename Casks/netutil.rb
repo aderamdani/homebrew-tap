@@ -1,6 +1,6 @@
 cask "netutil" do
-  version "4.15.0"
-  sha256 "cd9f54094eada933e68e89407ed7e18eb5df16ecc221e1d8fecac00715f78fd7"
+  version "4.16.0"
+  sha256 "eb1c63cc540f9c945c8cd9c6df25b6fc1c32872f67b5d9d4ecaa016d9020a96e"
 
   url "https://github.com/aderamdani/NetUtil/releases/download/v#{version}/NetUtil-#{version}.dmg"
   name "NetUtil"
